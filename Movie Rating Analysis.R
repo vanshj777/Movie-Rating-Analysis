@@ -4,7 +4,7 @@
 #gross % in America according to the Genre of the movie. In the Legend section the size of
 #bullets will show the budget of the movies and colour will show the various production
 #houses/studios in which the movies are produced.
-#Boxplot must be prepared using 6 genres only action, adventure, animation,comedy, drama
+#Boxplot must be prepared using 5 genres only action, adventure, animation,comedy, drama
 # and specific studios such as buena vista studios, fox, paramount pictures, sony,
 # universal, WB.
 #-------------------------------------------------------------------------------------------
